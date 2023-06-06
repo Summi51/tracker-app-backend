@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullname": "Samreen Inayat",
+            "email": "inayatsamreen1411@gmail.com",
+            "password": "123"
+        }
+    ]
+}
